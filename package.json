@@ -1,0 +1,10 @@
+{
+  "name": "billet-sender_backend",
+  "version": "1.0.0",
+  "repository": "https://github.com/rodrigocamarano/billet-sender_backend",
+  "author": {
+    "name": "Rodrigo Camarano",
+    "email": "rodrigocamarano@gmail.com"
+  },
+  "license": "MIT"
+}

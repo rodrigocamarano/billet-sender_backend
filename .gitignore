@@ -1,0 +1,9 @@
+yarn.lock
+package-lock.json
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules
+coverage
