@@ -1,0 +1,1115 @@
+{
+  "types": [
+    {
+      "body": false,
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": false,
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": false,
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": false
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": false,
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": false,
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": false,
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": false,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": false
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "invalid",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "invalid",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou"
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@mail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ]
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": false,
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": [false],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": false,
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": false
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        },
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com", "rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br"
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": [],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": ""
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "invalid",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    }
+  ]
+}

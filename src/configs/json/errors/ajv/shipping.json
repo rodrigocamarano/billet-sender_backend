@@ -1,0 +1,71 @@
+{
+  "required": {
+    "body": "body field is missing.",
+    "billets": "billets field is missing.",
+    "settings": "settings field is missing.",
+    "service": "service field is missing.",
+    "sender": "sender field is missing.",
+    "name": "name field is missing.",
+    "company": "company field is missing.",
+    "email": "email field is missing.",
+    "emails": "emails field is missing.",
+    "password": "password field is missing.",
+    "image": "image field is missing.",
+    "url": "url field is missing.",
+    "width": "width field is missing.",
+    "height": "height field is missing.",
+    "responsible": "responsible field is missing.",
+    "domain": "domain field is missing.",
+    "value": "value field is missing."
+  },
+  "type": {
+    "body": "body must be an string.",
+    "billets": "billets must be an array.",
+    "settings": "settings must be an object.",
+    "service": "service must be an string.",
+    "sender": "sender must be an object.",
+    "name": "name must be an string.",
+    "company": "company must be an string.",
+    "email": "email must be an string.",
+    "emails": "emails must be an array of string.",
+    "password": "password must be an string.",
+    "image": "image must be an object.",
+    "url": "url must be an string.",
+    "width": "width must be an number.",
+    "height": "height must be an number.",
+    "responsible": "responsible must be an string.",
+    "domain": "domain must be an string.",
+    "value": "value must be an number."
+  },
+  "format": {
+    "email": "email is invalid.",
+    "url": "url is invalid.",
+    "domain": "domain is invalid."
+  },
+  "empty": {
+    "body": "body is empty.",
+    "billets": {
+      "responsible": "responsible is empty.",
+      "emails": "emails is empty.",
+      "domain": "domain is empty."
+    },
+    "settings": {
+      "service": "service is empty.",
+      "sender": {
+        "name": "name is empty.",
+        "company": "company is empty."
+      },
+      "password": "password is empty."
+    }
+  },
+  "uniqueItems": {
+    "email": "emails do not allow duplicates.",
+    "billets": "billets do not allow duplicates."
+  },
+  "minItems": {
+    "emails": "emails must NOT have fewer than 1 items."
+  },
+  "enum": {
+    "service": "service not found."
+  }
+}
