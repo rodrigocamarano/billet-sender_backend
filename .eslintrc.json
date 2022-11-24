@@ -15,5 +15,16 @@
     "plugins": [
         "@typescript-eslint"
     ],
-    "rules": {}
+    "rules": {
+        "import/no-unresolved": "off",
+        "import/extensions": "off",
+        "linebreak-style": "off",
+        "no-console": "off",
+        "no-restricted-syntax": "off",
+        "no-nested-ternary": "off",
+        "indent": "off",
+        "operator-linebreak": "off",
+        "max-len": "off",
+        "object-curly-newline": "off"
+    }
 }
