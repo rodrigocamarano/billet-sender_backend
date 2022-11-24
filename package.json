@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "ts-node-dev src/app.ts",
-    "test": "jest"
+    "test": "jest --detectOpenHandles"
   },
   "license": "MIT",
   "devDependencies": {
