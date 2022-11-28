@@ -4,6 +4,9 @@ package-lock.json
 # Environment variables
 .env
 
+# PDF
+*.pdf
+
 # Dependency directories
 node_modules
 coverage
