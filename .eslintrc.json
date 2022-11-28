@@ -25,6 +25,11 @@
         "indent": "off",
         "operator-linebreak": "off",
         "max-len": "off",
-        "object-curly-newline": "off"
+        "object-curly-newline": "off",
+        "implicit-arrow-linebreak": "off",
+        "lines-between-class-members": "off",
+        "no-loop-func": "off",
+        "comma-dangle": "off",
+        "consistent-return": "off"
     }
 }
