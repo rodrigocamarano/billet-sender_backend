@@ -1,6 +1,7 @@
 {
   "types": [
     {
+      "subject": "Renovação do domínio $domain",
       "body": false,
       "billets": [
         {
@@ -26,6 +27,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -51,6 +53,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -76,6 +79,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -101,6 +105,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -126,6 +131,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -151,6 +157,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -176,6 +183,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -201,6 +209,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -226,6 +235,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -251,6 +261,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -300,6 +311,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -324,6 +336,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -348,6 +361,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -372,6 +386,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -396,6 +411,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -420,6 +436,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -444,6 +461,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -468,6 +486,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -492,6 +511,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -513,6 +533,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -533,6 +554,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -544,6 +566,7 @@
       ]
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "settings": {
         "service": "gmail",
@@ -561,6 +584,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -586,6 +610,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -611,6 +636,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -636,6 +662,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -661,6 +688,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -692,6 +720,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -717,6 +746,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -741,6 +771,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -765,6 +796,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -789,6 +821,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -813,6 +846,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -837,6 +871,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "",
       "billets": [
         {
@@ -862,6 +897,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -887,6 +923,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -912,6 +949,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -937,6 +975,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -962,6 +1001,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -987,6 +1027,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -1012,6 +1053,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -1037,6 +1079,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -1062,6 +1105,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -1087,6 +1131,7 @@
       }
     },
     {
+      "subject": "Renovação do domínio $domain",
       "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
       "billets": [
         {
@@ -1104,6 +1149,109 @@
         },
         "email": "rodrigo@clicksolucoesweb.com.br",
         "password": "bztjpqrntrvlgeou",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "subject": false,
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "invalid",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "invalid",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "subject": "",
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "clicksolucoesweb.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "invalid",
+        "image": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
+          "width": 212,
+          "height": 79
+        }
+      }
+    },
+    {
+      "subject": "Renovação do domínio $domain",
+      "body": "<p>Ola, $to</p><p>Segue em anexo boleto referente a hospedagem do dominio $domain referente ao ano de 2023.</p><p>Valor: $value<br />Vencimento: 23/12/2023</p><p>Qualquer duvida, favor entrar em contato.</p><p>Atenciosamente,</p>",
+      "billets": [
+        {
+          "responsible": "Rodrigo",
+          "emails": ["rodrigocamarano@gmail.com"],
+          "domain": "invalid.com.br",
+          "value": 240
+        }
+      ],
+      "settings": {
+        "service": "gmail",
+        "sender": {
+          "name": "Rodrigo Camarano",
+          "company": "Click Soluções WEB"
+        },
+        "email": "rodrigo@clicksolucoesweb.com.br",
+        "password": "invalid",
         "image": {
           "url": "https://firebasestorage.googleapis.com/v0/b/click-solucoes-web.appspot.com/o/clicksolucoesweb.png?alt=media&token=8d8da79f-8206-4c99-b9ca-8f0c778ece48",
           "width": 212,

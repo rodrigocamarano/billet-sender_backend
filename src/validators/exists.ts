@@ -1,6 +1,7 @@
 import fs from 'fs';
 import { Request, Response, NextFunction } from 'express';
 import CustomError from '../utils/CustomError';
+import { missing } from '../configs/json/errors/ajv/shipping.json';
 
 const checkFile = (domain: string) => fs.existsSync(`./attachments/${domain}.pdf`);
 
@@ -20,7 +21,7 @@ const exists = (req: Request, res: Response, next: NextFunction) => {
   }
   if (notFound.length > 0) {
     const { statusCode, message } = new CustomError(JSON.stringify(domains));
-    return res.status(statusCode).json({ error: { message: 'One or more missing files.', missing: JSON.parse(message) } });
+    return res.status(statusCode).json({ error: { message: missing.files, missing: JSON.parse(message) } });
   }
   return next();
 };

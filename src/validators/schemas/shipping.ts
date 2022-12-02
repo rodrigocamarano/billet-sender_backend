@@ -1,5 +1,11 @@
 import { required, type, empty, format, uniqueItems, minItems, enum as en } from '../../configs/json/errors/ajv/shipping.json';
 
+const subject = {
+  type: 'string',
+  errorMessage: type.subject,
+  allOf: [{ not: { maxLength: 0 }, errorMessage: empty.subject }],
+};
+
 const body = {
   type: 'string',
   errorMessage: type.body,
@@ -132,13 +138,15 @@ const settings = {
 const shipping = {
   type: 'object',
   properties: {
+    subject,
     body,
     billets,
     settings,
   },
-  required: ['body', 'billets', 'settings'],
+  required: ['subject', 'body', 'billets', 'settings'],
   errorMessage: {
     required: {
+      subject: required.subject,
       body: required.body,
       billets: required.billets,
       settings: required.settings,

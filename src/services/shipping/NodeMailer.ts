@@ -21,42 +21,47 @@ class NodeMailer {
   constructor(shipping: Shipping) {
     this.shipping = shipping;
   }
-  async send() {
-    const promises: (string | Promise<unknown>)[] = [];
+  async send(email: string, domain: string, responsible: string, value: number) {
     const transp = transporter(this.shipping.settings.service, this.shipping.settings.email, this.shipping.settings.password);
+    const mailOptions = {
+      from: `"${this.shipping.settings.sender.name} - ${this.shipping.settings.sender.company}" <${this.shipping.settings.email}>`,
+      to: email,
+      subject: this.shipping.subject.replace('$domain', domain),
+      html: this.shipping.body
+        .replace('$to', responsible)
+        .replace('$domain', domain)
+        .replace('$value', `R$ ${value.toFixed(2).replace('.', ',')}`),
+      attachments: [
+        {
+          filename: `${domain}.pdf`,
+          path: `./attachments/${domain}.pdf`,
+          contentType: 'application/pdf',
+        },
+      ],
+    };
+    try {
+      await transp.sendMail(mailOptions);
+      return true;
+    } catch {
+      return false;
+    }
+  }
+  async sendAll() {
+    const promises: Promise<unknown>[] = [];
     let count = 1;
     for (const { domain, value, responsible, emails } of this.shipping.billets) {
       for (const email of emails) {
-        const mailOptions = {
-          from: `"${this.shipping.settings.sender.name} - ${this.shipping.settings.sender.company}" <${this.shipping.settings.email}>`,
-          to: email,
-          subject: 'Domain Renewal',
-          html: this.shipping.body
-            .replace('$to', responsible)
-            .replace('$domain', domain)
-            .replace('$value', `R$ ${value.toFixed(2).replace('.', ',')}`),
-          attachments: [
-            {
-              filename: `${domain}.pdf`,
-              path: `./attachments/${domain}.pdf`,
-              contentType: 'application/pdf',
-            },
-          ],
-        };
         promises.push(
-          new Promise((resolve) => {
-            setTimeout(() => {
-              transp.sendMail(mailOptions);
-              resolve(email);
+          new Promise((resolve, reject) => {
+            setTimeout(async () => {
+              (await this.send(email, domain, responsible, value)) ? resolve(email) : reject(email);
               count += 1;
             }, count * 1);
           })
         );
       }
     }
-    return Promise.all(promises)
-      .then((result) => console.log(0, result))
-      .catch((error) => console.log(1, error));
+    return Promise.allSettled(promises);
   }
 }
 

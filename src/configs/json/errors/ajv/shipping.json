@@ -1,5 +1,6 @@
 {
   "required": {
+    "subject": "subject field is missing.",
     "body": "body field is missing.",
     "billets": "billets field is missing.",
     "settings": "settings field is missing.",
@@ -19,6 +20,7 @@
     "value": "value field is missing."
   },
   "type": {
+    "subject": "subject must be an string.",
     "body": "body must be an string.",
     "billets": "billets must be an array.",
     "settings": "settings must be an object.",
@@ -43,6 +45,7 @@
     "domain": "domain is invalid."
   },
   "empty": {
+    "subject": "subject is empty",
     "body": "body is empty.",
     "billets": {
       "responsible": "responsible is empty.",
@@ -67,5 +70,8 @@
   },
   "enum": {
     "service": "service not found."
+  },
+  "missing": {
+    "files": "One or more missing files."
   }
 }

@@ -24,6 +24,7 @@ type Settings = {
 };
 
 type Shipping = {
+  subject: string;
   body: string;
   billets: Billets[];
   settings: Settings;

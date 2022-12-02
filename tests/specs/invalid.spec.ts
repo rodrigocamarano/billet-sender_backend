@@ -1,10 +1,21 @@
 import supertest, { Response } from 'supertest';
 import server from '../../src/server';
 import { types } from '../json/invalid.json';
-import { type, format, required, uniqueItems, empty, minItems, enum as en } from '../../src/configs/json/errors/ajv/shipping.json';
+import { type, format, required, uniqueItems, empty, minItems, enum as en, missing } from '../../src/configs/json/errors/ajv/shipping.json';
 
 describe('Invalid requests', () => {
   describe('Invalid types', () => {
+    it('Invalid subject', (done) => {
+      supertest(server)
+        .post('/shipping')
+        .send(types[46])
+        .expect(400)
+        .then((response: Response) => {
+          expect(typeof response.body.error.validate.subject).toBe('string');
+          expect(response.body.error.validate.subject).toEqual(type.subject);
+          done();
+        });
+    });
     it('Invalid body', (done) => {
       supertest(server)
         .post('/shipping')
@@ -211,6 +222,17 @@ describe('Invalid requests', () => {
     });
   });
   describe('Required fields', () => {
+    it('Required subject', (done) => {
+      supertest(server)
+        .post('/shipping')
+        .send(types[47])
+        .expect(400)
+        .then((response: Response) => {
+          expect(typeof response.body.error.validate.subject).toBe('string');
+          expect(response.body.error.validate.subject).toEqual(required.subject);
+          done();
+        });
+    });
     it('Required body', (done) => {
       supertest(server)
         .post('/shipping')
@@ -400,6 +422,17 @@ describe('Invalid requests', () => {
     });
   });
   describe('Empty fields', () => {
+    it('Empty subject', (done) => {
+      supertest(server)
+        .post('/shipping')
+        .send(types[48])
+        .expect(400)
+        .then((response: Response) => {
+          expect(typeof response.body.error.validate.subject).toBe('string');
+          expect(response.body.error.validate.subject).toEqual(empty.subject);
+          done();
+        });
+    });
     it('Empty body', (done) => {
       supertest(server)
         .post('/shipping')
@@ -507,6 +540,19 @@ describe('Invalid requests', () => {
         .then((response: Response) => {
           expect(typeof response.body.error.validate['settings.image.url']).toBe('string');
           expect(response.body.error.validate['settings.image.url']).toEqual(format.url);
+          done();
+        });
+    });
+  });
+  describe('Invalid files', () => {
+    it('non-existent domain', (done) => {
+      supertest(server)
+        .post('/shipping')
+        .send(types[49])
+        .expect(400)
+        .then((response: Response) => {
+          expect(typeof response.body.error.message).toBe('string');
+          expect(response.body.error.message).toEqual(missing.files);
           done();
         });
     });
